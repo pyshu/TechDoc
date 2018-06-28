@@ -1,6 +1,6 @@
-# My Awesome Book
+# Inhand设备Python开放平台快速入门
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+
 
 |  |  |
 | :--- | :--- |
