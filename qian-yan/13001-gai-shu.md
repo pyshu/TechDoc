@@ -1,2 +1,2 @@
-Inhand设备开放平台，基于InRouter900系列路由器，集成了Python开发环境，常用Python模块，系统交互API接口，以及提供基于Inhand设备开放平台开发工具OpenDevice IDE，以便于用户利用Python语言实现应用服务的快速开发。
+Inhand设备开放平台，基于InRouter9XX系列路由器，集成了Python开发环境，常用Python模块，系统交互API接口，以及提供基于Inhand设备开放平台开发工具OpenDevice IDE，以便于用户利用Python语言实现应用服务的快速开发。
 
