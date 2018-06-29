@@ -8,7 +8,7 @@
 * [第一章、环境搭建](di-yi-zhang.md)
   * [1、准备项](di-yi-zhang/13001-zhun-bei-xiang.md)
   * [2、系统固件升级](di-yi-zhang/13001-xi-tong-gu-jian-sheng-ji.md)
-  * [3、Python SDK安装](di-yi-zhang/2python-sdkan-zhuang.md)
+  * [3、SDK安装](di-yi-zhang/2python-sdkan-zhuang.md)
   * [4、IED集成环境安装](di-yi-zhang/2iedji-cheng-huan-jing-an-zhuang.md)
   * 5、Windows安装Python
 * [第二章、Python App应用开发](di-er-zhang-3001-python-app-ying-yong-kai-fa.md)
