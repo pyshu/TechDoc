@@ -4,3 +4,7 @@ Wondows本地Python2.7.14环境，主要用于IED连接本地包快速编辑代�
 
 ![](/assets/pythonsyspath.png)
 
+验证是否成功安装。
+
+![](/assets/pythoncheck.png)
+
