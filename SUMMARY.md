@@ -10,7 +10,7 @@
   * [2、系统固件升级](di-yi-zhang/13001-xi-tong-gu-jian-sheng-ji.md)
   * [3、SDK安装](di-yi-zhang/2python-sdkan-zhuang.md)
   * [4、IED集成环境安装](di-yi-zhang/2iedji-cheng-huan-jing-an-zhuang.md)
-  * 5、Windows安装Python
+  * [5、Windows安装Python](di-yi-zhang/5windowsan-zhuang-python.md)
 * [第二章、Python App应用开发](di-er-zhang-3001-python-app-ying-yong-kai-fa.md)
   * [1、运行GW Python开发环境](di-er-zhang-3001-python-app-ying-yong-kai-fa/13001-shi-neng-gw-python-kai-fa-huan-jing.md)
   * [2、使能调试服务器](di-er-zhang-3001-python-app-ying-yong-kai-fa/23001-shi-neng-diao-shi-fu-wu-qi.md)
