@@ -18,7 +18,7 @@
 
 ![](/assets/connectscheck.png)
 
-接下来就可以开始编写我们的App
+接下来就可以开始编写我们的App，这里就不在描述代码的编写过程。下面已导入一个demo App编译打包
 
 将下载的工程文件PyappSample文件中src目录下的文件拷贝并替换新建工程文件目录src下的文件。
 
