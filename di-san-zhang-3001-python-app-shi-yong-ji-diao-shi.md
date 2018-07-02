@@ -1,0 +1,2 @@
+Inhand设备开放平台为了更加人性化的使用每一个Python App，在InRouter9XX系列路由器Web页面提供操作Python App各种功能。
+
