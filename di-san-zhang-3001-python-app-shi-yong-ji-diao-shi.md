@@ -1,2 +1,2 @@
-Inhand设备开放平台为了更加人性化的使用每一个Python App，在InRouter9XX系列路由器Web页面提供操作Python App各种功能。
+Inhand设备开放平台为了更加人性化的使用每一个Python App，在InRouter9XX系列路由器Web页面提供操作Python App各种功能。本章主要介绍Python App导入GW设备的方法，Python App的控制和信息等查看。
 
