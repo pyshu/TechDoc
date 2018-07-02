@@ -14,6 +14,7 @@
 * [第二章、Python App应用开发](di-er-zhang-3001-python-app-ying-yong-kai-fa.md)
   * [1、使能Python App管理及调试服务器](di-er-zhang-3001-python-app-ying-yong-kai-fa/13001-shi-neng-gw-python-kai-fa-huan-jing.md)
   * [2、利用IED进行开发](di-er-zhang-3001-python-app-ying-yong-kai-fa/2iedshi-yong-ji-kai-fa-app.md)
+  * [3、安装第三方依赖包](di-er-zhang-3001-python-app-ying-yong-kai-fa/33001-an-zhuang-di-san-fang-yi-lai-bao.md)
 * [第三章、Python App使用及调试](di-san-zhang-3001-python-app-shi-yong-ji-diao-shi.md)
   * [1、上传Python App和配置](di-san-zhang-3001-python-app-shi-yong-ji-diao-shi/13001-shang-chuan-app-ying-yong.md)
   * [2、App信息及状态查看](di-san-zhang-3001-python-app-shi-yong-ji-diao-shi/23001-xin-xi-cha-kan.md)
