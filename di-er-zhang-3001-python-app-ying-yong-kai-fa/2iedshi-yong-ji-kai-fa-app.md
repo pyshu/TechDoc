@@ -1,4 +1,4 @@
-打开IDE并选择工作目录，建议每一个App工程都使用单独的工作目录。
+IED开发应用时建议每一个Python App工程都使用单独的工作目录。打开IDE并选择工作目录。
 
 ![](/assets/iedworkspaceselection.png)
 
